@@ -7,14 +7,14 @@ highlighter: rouge
 markdown: kramdown
 disqus: dbyll
 google_analytics: dbyll
-title: INFORMATION
+title: Thayná Quintana Ramos
 
 defaults:
   -
     scope:
       path: "" # empty string for all files
     values:
-      title: Thayná Quintana Ramos
+      title: INFORMATION
 
 description: Stylish Jekyll Theme
 author:
