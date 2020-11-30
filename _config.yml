@@ -14,7 +14,7 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: dbyll
+      title: Thayná Quintana Ramos
 
 description: Stylish Jekyll Theme
 author:
